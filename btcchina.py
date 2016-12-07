@@ -5,7 +5,7 @@
 # print (sys.path[0])
 ''' 来自可爱的seenkitty
 My Motto mot4f6e6c7920486973746f7279204a75646765732
-help me with my food in BTC:   1MzAqFPkEro5Z4SJBtuTYm4DAc3WdzQAgc '''
+help me buy food with BTC:   1MzAqFPkEro5Z4SJBtuTYm4DAc3WdzQAgc '''
 
 import time
 import re
